@@ -1,0 +1,9 @@
+*.txt
+*.html
+build.xml
+manifest.mf
+/dist/
+/inputs/
+/build/
+/nbproject/private/
+/IKASL-Logs/
